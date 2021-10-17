@@ -1,0 +1,27 @@
+{
+  "title": "Material UI Demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "dependencies": {
+    "@date-io/date-fns": "v1",
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "latest",
+    "@material-ui/pickers": "latest",
+    "date-fns": "2.16.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-swipeable-views": "0.13.9",
+    "recharts": "2.1.4"
+  },
+  "keywords": [],
+  "name": "mui-demo",
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/drawers/PersistentDrawerLeft.js",
+  "version": "0.0.566",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
